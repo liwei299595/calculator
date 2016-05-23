@@ -156,6 +156,7 @@
 		C4B1533F1B32667900B0EEE6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = wyd;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				C4B153681B32667900B0EEE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C4B153691B32667900B0EEE6 /* Build configuration list for PBXNativeTarget "calculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				C4B1536B1B32667900B0EEE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
